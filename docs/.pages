@@ -1,0 +1,9 @@
+---
+collapse_single_pages: true
+nav:
+    - ... | index.md
+    - 01_initiating
+    - 02_planning
+    - 03_executing
+    - 04_monitoring_controlling
+    - 05_closing
